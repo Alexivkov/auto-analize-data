@@ -1,6 +1,0 @@
-[1127/131858.474:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
-[1127/131858.474:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::LDR_DATA_TABLE_ENTRY<crashpad::process_types::internal::Traits64>]: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
-[1127/131858.474:ERROR:process_info.cc(329)] VirtualQueryEx: Отказано в доступе. (0x5)
-[1127/131858.474:ERROR:process_info.cc(556)] ReadMemoryInfo failed
-[1127/131858.474:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
-[1127/131858.474:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Попытка доступа к процессу, выполняющему процедуру завершения. (0xc000010a)
